@@ -1,16 +1,16 @@
-# 🍵 Tea Corner – Premium Cafe Website
+#  Tea Corner – Premium Cafe Website
 
 > Fresh Taste, Premium Tea, Perfect Moments ☕
 
 A modern and premium cafe website designed for **Tea Corner, Nagpur**. This project provides an attractive user interface for browsing the menu, placing orders, viewing bills, and submitting customer feedback.
 
-## 🌟 Project Overview
+##  Project Overview
 
 Tea Corner is a responsive cafe management website built using HTML, CSS, and JavaScript. It features a premium black and golden theme with interactive navigation, customer login, order placement, billing, and feedback functionality.
 
 The website is designed to provide customers with a smooth and engaging cafe experience.
 
-## 🚀 Features
+##  Features
 
 * 🏠 **Home Page** – Premium landing page with cafe branding and tagline.
 * 📋 **Menu Section** – Browse categories like Chai & Teas, Espresso Bar, Snacks & Meals, and Sweet Corner.
